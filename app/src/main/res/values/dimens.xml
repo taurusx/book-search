@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="height_listview_item_min">100dp</dimen>
+    <!-- Height of text views in each list item -->
+    <dimen name="height_listview_textview">24dp</dimen>
+    <!-- Height of image in list item -->
+    <dimen name="height_listview_image">120dp</dimen>
+    <!-- Width of image in list item -->
+    <dimen name="width_listview_image">120dp</dimen>
+
+    <!-- Search button dimensions -->
+    <dimen name="width_search_button">48dp</dimen>
+    <!-- Padding of search field -->
+    <dimen name="padding_search">16dp</dimen>
+
+    <!-- Top padding of text container in list item -->
+    <dimen name="padding_listview_textcontainer">16dp</dimen>
+    <!-- Top padding of text container in list item -->
+    <dimen name="padding_listview_textcontainer_top">8dp</dimen>
+    <!-- Padding between text views in container in list item -->
+    <dimen name="padding_listview_textcontainer_between">4dp</dimen>
+</resources>

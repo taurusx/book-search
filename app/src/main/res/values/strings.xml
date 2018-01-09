@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- =========== -->
+    <!-- Application -->
+    <!-- =========== -->
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">BookSearch</string>
+
+    <!-- Search field hint. [CHAR LIMIT=40] -->
+    <string name="main_search_hint">What book are you looking for?</string>
+    <!-- Search field button description. [CHAR LIMIT=NONE] -->
+    <string name="main_search_buttondescription">The button to search for requested book.</string>
+    <!-- Search field error message. [CHAR LIMIT=NONE] -->
+    <string name="main_search_errormessage">This field cannot be empty</string>
+    <!-- Search field - restricted characters used. [CHAR LIMIT=32] -->
+    <string name="main_toast_characters_notallowed">Characters like \n
+        - + , . @ # $ % ^ ? \ / &quot; &apos; &lt; &gt; &amp; \n are forbidden.</string>
+    <!-- Empty TextView - call for action. [CHAR LIMIT=NONE] -->
+    <string name="main_textview_callforaction">Fill the field above with the key words that you
+        are looking for and then hit search button.</string>
+
+    <!-- ListView photo description [CHAR LIMIT=NONE] -->
+    <string name="listview_imageview_contentdescription">Book cover in list item</string>
+
+    <!-- Default text to show when no books
+  fot the specific parameters are given [CHAR LIMIT=NONE] -->
+    <string name="main_textview_nobooks">No books have been found. Please try again with different keywords.</string>
+    <!-- Default text to show when Internet connection cannot be established [CHAR LIMIT=NONE] -->
+    <string name="main_textview_nointernet">No Internet connection.</string>
+</resources>
